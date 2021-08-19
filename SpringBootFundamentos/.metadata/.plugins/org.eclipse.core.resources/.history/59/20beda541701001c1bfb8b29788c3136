@@ -1,0 +1,6 @@
+package br.com.stefanini.projetoum.interfaces;
+
+public interface ICustomerValidation {
+
+	public Boolean isEmail(String email);
+}
